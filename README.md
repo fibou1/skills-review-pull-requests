@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations fibou1!!! 🎉
+# 🎉 Congratulations fibou1!!!!!!!!! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
@@ -30,4 +30,21 @@
 *There's no better way to learn than building things!* 🚀
 
 </div>
+
+
+
+
+
+func Div(a, b int) int {
+    return a / b
+}
+
+
+
+
+
+
+
+
+
 
